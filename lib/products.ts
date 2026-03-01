@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = "081249428096"; // Ganti dengan nomor WA Anda
+export const WHATSAPP_NUMBER = "6281249428096"; // Ganti dengan nomor WA Anda
 
 export type BadgeType = "hot" | "new" | "fav" | "sale" | null;
 
